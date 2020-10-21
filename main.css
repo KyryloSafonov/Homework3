@@ -4,10 +4,12 @@
     font-size: 0;
 }
 .block1{
-    height: 410px;
+    /*height: 410px;*/
     width: 610px;
     background: black;
+    padding-bottom: 5px;
     padding-top: 5px;
+
 
 
 }
